@@ -3,7 +3,7 @@
 /* Clase AppWebLogo */
 
 /**
- * 
+ * @author Alfredo
  */
 class AppWebLogo {
 
@@ -23,7 +23,7 @@ class AppWebLogo {
         return $this->arrayGrafico;
     }
 
-    public function getAnimacion() {
+    public function getPintar() {
         return($this->pintar);
     } 
 
