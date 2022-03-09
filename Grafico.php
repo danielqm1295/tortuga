@@ -19,6 +19,6 @@
         public function mover($x, $y) {}
 
         public function desplazar($x, $y) {}
-}
+    }
 
 ?>
