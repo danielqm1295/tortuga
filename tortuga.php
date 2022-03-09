@@ -1,4 +1,9 @@
 <?php
+/* Clase Tortuga */
+
+/**
+ * @author Mario
+ */
 class tortuga extends Grafico
 {
     private Punto $centro;
